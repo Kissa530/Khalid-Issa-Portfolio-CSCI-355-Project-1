@@ -1,0 +1,272 @@
+*{
+    box-sizing:border-box;
+}
+
+
+body{
+
+    margin:0;
+
+    font-family: Arial, sans-serif;
+
+    background:#f4f6f8;
+
+    color:#222;
+
+}
+
+
+
+header{
+
+    background:#0b3d91;
+
+    color:white;
+
+    padding:20px;
+
+}
+
+
+
+nav{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+}
+
+
+
+nav ul{
+
+    list-style:none;
+
+    display:flex;
+
+    gap:20px;
+
+}
+
+
+
+nav a{
+
+    color:white;
+
+    text-decoration:none;
+
+}
+
+
+
+section{
+
+    padding:50px;
+
+}
+
+
+
+
+#home{
+
+    text-align:center;
+
+    background:#1e88e5;
+
+    color:white;
+
+    padding:60px 20px;
+
+}
+
+
+.profile-image{
+
+    width:180px;
+
+    height:180px;
+
+    border-radius:50%;
+
+    object-fit:cover;
+
+    border:5px solid white;
+
+    margin-bottom:20px;
+
+}
+
+
+button{
+
+    background:#0b3d91;
+
+    color:white;
+
+    border:none;
+
+    padding:12px 20px;
+
+    border-radius:8px;
+
+    cursor:pointer;
+
+}
+
+
+
+button:hover{
+
+    opacity:0.8;
+
+}
+
+
+
+
+
+.skills-container{
+
+    display:grid;
+
+    grid-template-columns:
+    repeat(3,1fr);
+
+    gap:20px;
+
+}
+
+
+
+.skills-container div{
+
+    background:white;
+
+    padding:20px;
+
+    text-align:center;
+
+    border-radius:10px;
+
+}
+
+
+
+
+.project-card{
+
+    background:white;
+
+    padding:25px;
+
+    margin:20px 0;
+
+    border-radius:10px;
+
+}
+
+
+
+form{
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:15px;
+
+}
+
+
+
+input, textarea{
+
+    padding:12px;
+
+    font-size:16px;
+
+}
+
+
+
+footer{
+
+    background:#222;
+
+    color:white;
+
+    text-align:center;
+
+    padding:20px;
+
+}
+
+
+
+
+
+
+/* Mobile Design */
+
+@media(max-width:768px){
+
+
+nav{
+
+    flex-direction:column;
+
+}
+
+
+nav ul{
+
+    flex-direction:column;
+
+}
+
+
+.skills-container{
+
+    grid-template-columns:1fr;
+
+}
+
+
+section{
+
+    padding:25px;
+
+}
+
+
+}
+
+#contact a{
+
+    display:inline-block;
+
+    background:#0b3d91;
+
+    color:white;
+
+    padding:12px 20px;
+
+    border-radius:8px;
+
+    text-decoration:none;
+
+    margin:5px;
+
+}
+
+
+#contact a:hover{
+
+    background:#1e88e5;
+
+}
