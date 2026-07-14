@@ -174,32 +174,32 @@ What to include in the repo:
   https://chatgpt.com/
   Used for debugging, explaining HTML/CSS/JavaScript concepts, and brainstorming portfolio content.
 
-	= wireframe design (hand-drawn/computer-aided)
+- wireframe design (hand-drawn/computer-aided)
 	= main sections to include:
-		+ project overview
+		- project overview
 		A personal portfolio website coded using HTML, CSS and JavaScript. This site is a single page site that highlights all of my skills, projects and links my resume, LinkedIn and GitHub.
-		+ target audience
+		- target audience
 		Peers, recruiters, hiring managers, future employers and professors
-		+ content strategy
+		- content strategy
 		Content focuses on facts about myself, what skills I have, what projects have I made and a contact button to contact me via Gmail.
-		+ information organization
+		- information organization
 		   Home   Profile pic, Bio, View Projects button
            About  Bio paragraph
            Skills Any programming or technical skills 
            Projects 3 projects with a brief description on how they work
            Resume Links the resume and options are to view or download
            Contact Email form, GitHub and LinkedIn
-		+ visual desing (wireframe and more)
+		- visual desing (wireframe and more)
 		Wireframe and facts about fonts used
-		+ interaction / functionality
+		- interaction / functionality
 		add this later
-		+ technical overview
+		- technical overview
 		index.html Contains the overall structure and content of the website, including all portfolio sections.
 		style.css Provides styling, responsive layout, colors, typography, spacing, and visual effects.
 		Script.js Implements JavaScript functionality, including smooth scrolling, project navigation, and contact form validation.
 		resume.pdf Professional resume available for viewing or downloading.
 		profile.jpeg Professional profile picture displayed on the homepage.
-		+ timeline / project milestone
+		- timeline / project milestone
 		Content planning	✅ Complete
         Design planning	✅ Complete (almost)
         Interactivity planning	✅ Complete (almost)
