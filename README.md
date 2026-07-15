@@ -190,9 +190,33 @@ What to include in the repo:
            Resume Links the resume and options are to view or download
            Contact Email form, GitHub and LinkedIn
 - visual desing (wireframe and more)
-		Wireframe and facts about fonts used
+
+The website follows a clean, modern, and professional design intended for a software engineering portfolio.
+
+Color Scheme:
+Dark Blue (#0b3d91)
+Light Blue (#1e88e5)
+Light Gray (#f4f6f8)
+White
+Typography:
+Arial, sans-serif
+Layout:
+Single-page responsive design
+Simple navigation bar
+Clearly separated content sections
+Wireframe:
+Included in this repository.
 - interaction / functionality
-		add this later
+
+The portfolio website includes several interactive features to improve navigation and user experience.
+
+A responsive navigation bar allows users to quickly jump to different sections of the webpage.
+The View Projects button uses JavaScript to smoothly scroll to the Projects section.
+The contact form validates that all required fields are completed before allowing submission and provides feedback to the user.
+Visitors can view or download my resume directly from the Resume section.
+GitHub and LinkedIn buttons provide quick access to my professional profiles.
+The website is responsive, allowing it to adapt to different screen sizes such as desktops, tablets, and mobile devices using CSS media queries.
+Buttons include hover effects to provide visual feedback when users interact with them.
 - technical overview
 		index.html Contains the overall structure and content of the website, including all portfolio sections.
 		style.css Provides styling, responsive layout, colors, typography, spacing, and visual effects.
