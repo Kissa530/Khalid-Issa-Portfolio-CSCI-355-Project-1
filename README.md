@@ -139,8 +139,10 @@ Interactive features make the website easier to navigate, provide immediate feed
   - ChatGPT - https://chatgpt.com/
   Used for debugging, explaining HTML/CSS/JavaScript concepts, and brainstorming portfolio content.
 
-- wireframe design (hand-drawn/computer-aided)
-	*(Insert wireframe image here)*
+- wireframe design (hand-drawn/computer-aided) - https://figma.com/
+  Used to build a wireframe design for the portfolio.
+
+  ---
 ## project overview
 		A personal portfolio website coded using HTML, CSS and JavaScript. This site is a single page site that highlights all of my skills, projects and links my resume, LinkedIn and GitHub.
 	---
