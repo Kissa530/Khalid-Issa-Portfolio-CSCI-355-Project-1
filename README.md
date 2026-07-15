@@ -3,47 +3,47 @@
 
 
 --------------------------------------------------
-PART 1: CONTENT (Answer ALL questions)
+# PART 1: CONTENT (Answer ALL questions)
 
-1. What is your full name as you want it displayed professionally?
+## 1. What is your full name as you want it displayed professionally?
 Khalid Issa
-2. What is the purpose of your portfolio website?
+## 2. What is the purpose of your portfolio website?
 The purpose of my portfolio website is to showcase my technical skills, academic projects, and experience as a Computer Science student while providing employers with an overview of my work and qualifications.
-3. Who is the target audience (employers, clients, peers, etc.)?
+## 3. Who is the target audience (employers, clients, peers, etc.)?
 Employers, clients, peers, hiring managers, recruiters
-4. What skills do you want to highlight?
+## 4. What skills do you want to highlight?
 C++, Java, Python, SQL (MySQL), HTML, CSS, JS, Cloud Computing
-5. What projects or work will you showcase?
+## 5. What projects or work will you showcase?
 Student Information System using Java, MySQL and CRUD. Developed a console-based Student Information System integrating Java with MySQL using a JDBC Driver for full CRUD operations across multiple relational tables. System supporting students, instructors, courses, sections and enrollment records. Implemented complex SQL joins for academic reporting and enrollment tracking.
-6. How will you describe yourself in a short professional bio?
+## 6. How will you describe yourself in a short professional bio?
 I am a Computer Science student with an interest in software development, web technologies, cloud computing, and database systems. I enjoy building practical applications, learning new technologies, and continuously improving my programming skills through academic and personal projects.
-7. What pages will your site include (Home, About, Projects, Contact, etc.)?
+## 7. What pages will your site include (Home, About, Projects, Contact, etc.)?
 Home, About, Skills, Projects, Resume, Contact
-8. What is your career goal or desired role?
+## 8. What is your career goal or desired role?
 To become a Software Engineer or Full-Stack Developer and contribute to building scalable and user-friendly software applications.
-9. What technologies or tools do you have experience with?
+## 9. What technologies or tools do you have experience with?
 HTML, CSS, JS, Java, C++, Python, MySQL, GitHub, Docker, Kubernetes, Google Cloud Platform, Linux, Ubuntu
-10. What achievements or experiences are worth highlighting?
+## 10. What achievements or experiences are worth highlighting?
 Computer science coursework, Database project using MySQL and Java, Cloud computing projects
-11. What call-to-action should visitors take (contact you, view projects, download resume)?
+## 11. What call-to-action should visitors take (contact you, view projects, download resume)?
 View my projects, contact me, download my resume, visit my GitHub, visit my LinkedIn
-12. Will you include a resume? In what format?
+## 12. Will you include a resume? In what format?
 Yes in PDF format with a download button
-13. What social or professional links will you include (GitHub, LinkedIn, etc.)?
+## 13. What social or professional links will you include (GitHub, LinkedIn, etc.)?
 GitHub, LinkedIn, Email
 
 --------------------------------------------------
-PART 2: DESIGN (Answer ALL questions)
+# PART 2: DESIGN (Answer ALL questions)
 
-1. What overall style will best represent you (minimalist, creative, professional, etc.)?
+## 1. What overall style will best represent you (minimalist, creative, professional, etc.)?
 Professional and minimalist with some creativity
-2. What color scheme will you use and why?
+## 2. What color scheme will you use and why?
 Dark blue, white, and light gray. Blue represents professionalism and technology, while white and gray provide readability and a clean appearance.
-3. What fonts will you use for headings and body text?
+## 3. What fonts will you use for headings and body text?
 For the Headings, I will use Poppins while for the Body, I will use Roboto
-4. How will your design reflect your personality or field?
+## 4. How will your design reflect your personality or field?
 The design will use a clean layout with simple navigation, modern project cards, and minimal distractions to emphasize technical content and professionalism.
-5. What layout will your homepage follow?
+## 5. What layout will your homepage follow?
 Navigation
 
 ↓
@@ -73,11 +73,11 @@ Contact
 ↓
 
 Footer
-6. How will you organize project sections visually?
+## 6. How will you organize project sections visually?
 Projects displayed as responsive cards containing things such as a Screenshot, Project title, Description, Technologies used and GitHub link
-7. Will the site be mobile-friendly? How will you ensure responsiveness?
+## 7. Will the site be mobile-friendly? How will you ensure responsiveness?
 Yes. I will use a Flexbox, CSS grid, Media queries, and Responsive images
-8. What visual hierarchy will guide visitors?
+## 8. What visual hierarchy will guide visitors?
 Large hero section
 
 ↓
@@ -95,27 +95,27 @@ Buttons
 ↓
 
 Footer
-9. How will consistency be maintained across pages?
+## 9. How will consistency be maintained across pages?
 Same colors, Same fonts, Same spacing, Same navigation, Same button styles etc
-10. How will accessibility be considered (contrast, font size, readability)?
+## 10. How will accessibility be considered (contrast, font size, readability)?
 High color contrast, Readable font sizes, Alt text on images, Semantic HTML, Keyboard-friendly navigation
-11. Will you use icons, images, or illustrations? Why?
+## 11. Will you use icons, images, or illustrations? Why?
 Yes I will use a profile picture of myself, a GitHub icon and a LinkedIn icon. They make the website more engaging and professional.
-12. What portfolio websites inspired your design?
+## 12. What portfolio websites inspired your design?
 I was inspired by modern software developer portfolios that emphasize clean layouts, responsive design, and easy navigation. My goal is to create a simple yet professional website that highlights my technical projects and skills. I was also inspired by my fellow peers who have made portfolios earlier in their CS career.
 
 --------------------------------------------------
-PART 3: INTERACTIVITY (Answer ALL questions)
+# PART 3: INTERACTIVITY (Answer ALL questions)
 
-1. What interactive elements will your site include (navigation menus, buttons, forms)?
+## 1. What interactive elements will your site include (navigation menus, buttons, forms)?
 Navigation bar, smooth scrolling, buttons, hvoer effects, contact form and resume download button
-2. Will your site include a contact form? How will it work?
+## 2. Will your site include a contact form? How will it work?
 Yes and the contact form I will include will allow visitors to enter their name, email address and message. JavaScript will validate the inputs before submission.
-3. What JavaScript features will you implement?
+## 3. What JavaScript features will you implement?
 Form validation, smooth scrolling, mobile navigation menu, button hover effects and scroll animation.
-4. How will users receive feedback from interactions?
+## 4. How will users receive feedback from interactions?
 Users will recieve confirmation messages after successful form validation and clear error messages when required fields are missing or invalid.
-5. How does interactivity improve the user experience?
+## 5. How does interactivity improve the user experience?
 Interactive features make the website easier to navigate, provide immediate feedback to users, and create a more engaging experience while maintaining a professional appearance.
 
 
