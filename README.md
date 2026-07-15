@@ -124,7 +124,7 @@ Interactive features make the website easier to navigate, provide immediate feed
 --------------------------------------------------
 
   # any external resources used (links)
-  https://developer.mozilla.org/
+ - Mozilla - https://developer.mozilla.org/
   Used as a reference for HTML, CSS, and JavaScript syntax and documentation.
 
   - W3Schools - https://www.w3schools.com/
