@@ -224,9 +224,6 @@ Interactive features make the website easier to navigate, provide immediate feed
         - Deployed to GitHub Pages  ✅ Complete
 
 		---
-  
-# The website files (HTML, CSS, JS)
-	= Code must be original and well-commented
 
 --------------------------------------------------
 
