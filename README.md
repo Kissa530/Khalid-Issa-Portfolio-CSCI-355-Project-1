@@ -164,7 +164,7 @@ What to include in the repo:
 
   - GitHub Pages Documentation
   https://docs.github.com/en/pages
-  Used to learn how to publish the portfolio website.
+  Used to learn how to publish the portfolio website. The website is designed to be hosted using GitHub Pages so it can be accessed online by employers, professors, and peers.
 
   - Figma
   https://www.figma.com/
@@ -181,7 +181,7 @@ What to include in the repo:
 - target audience
 		Peers, recruiters, hiring managers, future employers and professors
 - content strategy
-		Content focuses on facts about myself, what skills I have, what projects have I made and a contact button to contact me via Gmail.
+		Content focuses on facts about myself, what skills I have, what projects have I made and a contact button to contact me by email, specifally Gmail.
 - information organization
 		   Home   Profile pic, Bio, View Projects button
            About  Bio paragraph
@@ -190,33 +190,28 @@ What to include in the repo:
            Resume Links the resume and options are to view or download
            Contact Email form, GitHub and LinkedIn
 - visual desing (wireframe and more)
-
-The website follows a clean, modern, and professional design intended for a software engineering portfolio.
-
-Color Scheme:
-Dark Blue (#0b3d91)
-Light Blue (#1e88e5)
-Light Gray (#f4f6f8)
-White
-Typography:
-Arial, sans-serif
-Layout:
-Single-page responsive design
-Simple navigation bar
-Clearly separated content sections
-Wireframe:
-Included in this repository.
+        The website follows a clean, modern, and professional design intended for a software engineering portfolio.
+        Color Scheme:
+        Dark Blue (#0b3d91)
+        Light Blue (#1e88e5)
+        Light Gray (#f4f6f8)
+        White
+        Typography:
+        Arial, sans-serif
+        Layout:
+        Single-page responsive design
+        Simple navigation bar
+        Clearly separated content sections
+        Wireframe: Included in this repository.
 - interaction / functionality
-
-The portfolio website includes several interactive features to improve navigation and user experience.
-
-A responsive navigation bar allows users to quickly jump to different sections of the webpage.
-The View Projects button uses JavaScript to smoothly scroll to the Projects section.
-The contact form validates that all required fields are completed before allowing submission and provides feedback to the user.
-Visitors can view or download my resume directly from the Resume section.
-GitHub and LinkedIn buttons provide quick access to my professional profiles.
-The website is responsive, allowing it to adapt to different screen sizes such as desktops, tablets, and mobile devices using CSS media queries.
-Buttons include hover effects to provide visual feedback when users interact with them.
+        The portfolio website includes several interactive features to improve navigation and user experience.
+        A responsive navigation bar allows users to quickly jump to different sections of the webpage.
+        The View Projects button uses JavaScript to smoothly scroll to the Projects section.
+        The contact form validates that all required fields are completed before allowing submission and provides feedback to the user.
+        Visitors can view or download my resume directly from the Resume section.
+        GitHub and LinkedIn buttons provide quick access to my professional profiles.
+        The website is responsive, allowing it to adapt to different screen sizes such as desktops, tablets, and mobile devices using CSS media queries.
+        Buttons include hover effects to provide visual feedback when users interact with them.
 - technical overview
 		index.html Contains the overall structure and content of the website, including all portfolio sections.
 		style.css Provides styling, responsive layout, colors, typography, spacing, and visual effects.
@@ -225,12 +220,12 @@ Buttons include hover effects to provide visual feedback when users interact wit
 		profile.jpeg Professional profile picture displayed on the homepage.
 - timeline / project milestone
 		Content planning	✅ Complete
-        Design planning	✅ Complete (almost)
-        Interactivity planning	✅ Complete (almost)
+        Design planning	✅ Complete 
+        Interactivity planning	✅ Complete 
         HTML	✅ Complete
         CSS	✅ Complete
         JavaScript	✅ Complete
-        Deployed to GitHub Pages  ✅ Complete (not yet)
+        Deployed to GitHub Pages  ✅ Complete 
 - The website files (HTML, CSS, JS)
 	= Code must be original and well-commented
 
@@ -239,3 +234,4 @@ Extra Credit Opportunity
 - Design the website to be accessible
 - Design the website for a real business
 - Design the website to be responsive (mobile vs desktop)
+
